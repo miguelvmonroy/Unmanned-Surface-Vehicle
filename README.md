@@ -2,14 +2,16 @@
 
 ![image](https://github.com/miguelvmonroy/lancha-autonoma/blob/main/protypeship.jpg)
 
-
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)
 ![Versión](https://img.shields.io/badge/Versión-1.0.0-blue)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
+![ROS 2](https://img.shields.io/badge/ROS%202-Jazzy-brightgreen)
+![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-orange)
+
 
 ## 📋 Descripción del Proyecto
 
-Este proyecto consiste en el desarrollo de una lancha autónoma capaz de navegar de manera independiente utilizando sensores, actuadores y sistemas de control avanzados. La embarcación está diseñada para realizar misiones de monitoreo, exploración y recolección de datos en entornos acuáticos.
+Este proyecto consiste en el desarrollo de una **lancha autónoma (USV)** capaz de navegar de manera independiente utilizando sensores, actuadores y sistemas de control avanzados. La embarcación está diseñada para realizar misiones de monitoreo, exploración y recolección de datos en entornos acuáticos.
 
 ### 🎯 Objetivos Principales
 - Navegación autónoma sin intervención humana
@@ -57,6 +59,23 @@ Características
 ✅ Transmisión de telemetría en tiempo real
 
 ✅ Sistema de seguridad con emergencia automática
+
+## 📚 Documentación
+
+Toda la documentación detallada está disponible en el **[Wiki del proyecto](https://github.com/miguelvmonroy/lancha-autonoma/wiki)**.
+
+| Guía | Descripción |
+|------|-------------|
+| [🔧 Instalación](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Instalación) | Instalación de WSL, ROS 2, Gazebo y VRX |
+| [🎮 Control de la Lancha](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Control-de-la-Lancha) | Control manual y comandos ROS 2 |
+| [🗺️ Mundos Disponibles](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Mundos-Disponibles) | Mundos de simulación en VRX |
+| [🌊 Perfiles de Mar](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Perfiles-de-Mar) | Configuración de oleaje y viento |
+| [🛠️ Solución de Problemas](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Solucion-de-Problemas) | Errores comunes y soluciones |
+| [🤝 Contribuciones](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Contribuciones) | Cómo contribuir al proyecto |
+
+---
+
+
 
 ⭐ Si te gusta este proyecto, no olvides darle una estrella en GitHub!
 
