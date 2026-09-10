@@ -34,7 +34,8 @@ Este proyecto consiste en el desarrollo de una **lancha autónoma (USV)** capaz 
 
 ### Software
 - **Lenguaje**: C++ / Python
-- **Framework**: ROS (Robot Operating System)
+- **Framework**: ROS 2 (Robot Operating System)
+- **Simulación**: Gazebo Harmonic con VRX
 - **Control**: PID para estabilización y navegación
 - **Interfaz**: Tkinter / Web Dashboard
 
@@ -74,7 +75,6 @@ Toda la documentación detallada está disponible en el **[Wiki del proyecto](ht
 | [🤝 Contribuciones](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Contribuciones) | Cómo contribuir al proyecto |
 
 ---
-
 
 
 ⭐ Si te gusta este proyecto, no olvides darle una estrella en GitHub!
