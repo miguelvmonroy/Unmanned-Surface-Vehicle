@@ -69,6 +69,8 @@ Toda la documentación detallada está disponible en el **[Wiki del proyecto](ht
 |------|-------------|
 | **[Lancha Autonoma](https://github.com/miguelvmonroy/lancha-autonoma/wiki#-lancha-aut%C3%B3noma---proyecto-de-navegaci%C3%B3n-aut%C3%B3noma)** | Proyecto de Navegación Autónoma |
 | **[Configuración](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Configuraci%C3%B3n-de-WSL2---ROS-2-Jazzy---Gazebo-Harmonic-para-simulaci%C3%B3n-de-USV)** | Configuración de WSL2 ROS 2 Jazzy Gazebo Harmonic para simulación de USV |
+| **[Controlador](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Controlador-A%E2%86%92B-%E2%80%90-Ubuntu-Nativo)** | A→B - Ubuntu Nativo |
+
 
 ---
 
