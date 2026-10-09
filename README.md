@@ -67,7 +67,7 @@ Toda la documentación detallada está disponible en el **[Wiki del proyecto](ht
 
 | Guía | Descripción |
 |------|-------------|
-| [Lancha Autonoma] | Proyecto de Navegación Autónoma |
+| [Lancha Autonoma] **(https://github.com/miguelvmonroy/lancha-autonoma/wiki#-lancha-aut%C3%B3noma---proyecto-de-navegaci%C3%B3n-aut%C3%B3noma)**. | Proyecto de Navegación Autónoma |
 
 
 ---
