@@ -67,12 +67,8 @@ Toda la documentación detallada está disponible en el **[Wiki del proyecto](ht
 
 | Guía | Descripción |
 |------|-------------|
-| [https://github.com/miguelvmonroy/lancha-autonoma/wiki | Lancha Autónoma - Proyecto de Navegación Autónoma |
-| [🎮 Control de la Lancha](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Control-de-la-Lancha) | Control manual y comandos ROS 2 |
-| [🗺️ Mundos Disponibles](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Mundos-Disponibles) | Mundos de simulación en VRX |
-| [🌊 Perfiles de Mar](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Perfiles-de-Mar) | Configuración de oleaje y viento |
-| [🛠️ Solución de Problemas](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Solucion-de-Problemas) | Errores comunes y soluciones |
-| [🤝 Contribuciones](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Contribuciones) | Cómo contribuir al proyecto |
+| [Lancha Autonoma][https://github.com/miguelvmonroy/lancha-autonoma/wiki | Proyecto de Navegación Autónoma |
+| [Configuración][https://github.com/miguelvmonroy/lancha-autonoma/wiki/Configuraci%C3%B3n-de-WSL2---ROS-2-Jazzy---Gazebo-Harmonic-para-simulaci%C3%B3n-de-USV | Configuración de WSL2 ROS 2 Jazzy Gazebo Harmonic para simulación de USV |
 
 ---
 
