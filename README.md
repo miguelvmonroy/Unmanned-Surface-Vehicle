@@ -1,4 +1,4 @@
-# 🚤 Autonomous Boat – Autonomous Navigation Project
+# Autonomous Boat – Autonomous Navigation Project
 <img width="1144" height="485" alt="image" src="https://github.com/user-attachments/assets/a34d9b2f-c372-44f5-8eae-c62da3be81b7" />
 
 
