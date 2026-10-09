@@ -50,7 +50,7 @@ Semiautónomo: Asistencia en navegación
 Autónomo: Navegación completamente independiente
 
 
-Características
+## Características
 
 ✅ Planificación de rutas con waypoints
 
