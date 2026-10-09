@@ -71,17 +71,11 @@ Full, detailed documentation is available on the **[project wiki](https://github
 | **[Autonomous Boat](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki)** | Autonomous Navigation Project |
 | **[Control](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Boat-Control)** | Boat Control |
 | **[Controller](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Controller-A%E2%86%92B-%E2%80%90-Native-Ubuntu)** | A→B - Native Ubuntu |
-
 | **[Control System](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/How-to-launch-the-complete-system)** | How to launch the complete system |
-
 | **[GPU in WSL2](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/GPU%E2%80%90Acceleration)** | GPU acceleration in WSL2 for Gazebo and RViz2 |
-
 | **[Installation](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/installation-of)** | System installation |
-
 | **[Native Ubuntu Setup](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Native-Ubuntu-Setup-%E2%80%90-WAM%E2%80%90V-Project)** | Native Ubuntu Setup - WAM-V Project |
-
 | **[Visualizador v6](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Visualizer-v6-%E2%80%93-Code)** | Visualizer v6 - Code |
-
 | **[Autonomous Navigation A→B ](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/%F0%9F%A7%AD-Autonomous-Navigation)** | Autonomous Navigation |
 
 ---
