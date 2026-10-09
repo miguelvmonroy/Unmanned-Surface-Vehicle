@@ -51,6 +51,7 @@ Autónomo: Navegación completamente independiente
 
 
 Características
+
 ✅ Planificación de rutas con waypoints
 
 ✅ Evasión dinámica de obstáculos
