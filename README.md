@@ -68,16 +68,21 @@ Full, detailed documentation is available on the **[project wiki](https://github
 
 | Guide | Description |
 |------|-------------|
-| **[Autonomous Boat](https://github.com/miguelvmonroy/lancha-autonoma/wiki#-lancha-aut%C3%B3noma---proyecto-de-navegaci%C3%B3n-aut%C3%B3noma)** | Autonomous Navigation Project |
-| **[Configuration](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Configuraci%C3%B3n-de-WSL2---ROS-2-Jazzy---Gazebo-Harmonic-para-simulaci%C3%B3n-de-USV)** | WSL2, ROS 2 Jazzy, and Gazebo Harmonic setup for USV simulation |
-| **[Control](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Control-de-la-Lancha)** | Boat Control |
-| **[Controller](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Controlador-A%E2%86%92B-%E2%80%90-Ubuntu-Nativo)** | A→B - Native Ubuntu |
-| **[Control System](https://github.com/miguelvmonroy/lancha-autonoma/wiki/C%C3%B3mo-lanzar-el-sistema-completo)** | How to launch the complete system |
-| **[GPU in WSL2](https://github.com/miguelvmonroy/lancha-autonoma/wiki/GPU%E2%80%90Acceleration)** | GPU acceleration in WSL2 for Gazebo and RViz2 |
-| **[Installation](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Instalaci%C3%B3n)** | System installation |
-| **[Native Ubuntu Setup](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Setup-Ubuntu-Nativo-%E2%80%90-Proyecto-WAM%E2%80%90V)** | Native Ubuntu Setup - WAM-V Project |
-| **[Visualizador v6](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Visualizador-v6-%E2%80%90-C%C3%B3digo)** | Visualizer v6 - Code |
-| **[Autonomous Navigation A→B ](https://github.com/miguelvmonroy/lancha-autonoma/wiki/%F0%9F%A7%AD-Navegaci%C3%B3n-Aut%C3%B3noma)** | Autonomous Navigation |
+| **[Autonomous Boat](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki)** | Autonomous Navigation Project |
+| **[Control](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Boat-Control)** | Boat Control |
+| **[Controller](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Controller-A%E2%86%92B-%E2%80%90-Native-Ubuntu)** | A→B - Native Ubuntu |
+
+| **[Control System](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/How-to-launch-the-complete-system)** | How to launch the complete system |
+
+| **[GPU in WSL2](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/GPU%E2%80%90Acceleration)** | GPU acceleration in WSL2 for Gazebo and RViz2 |
+
+| **[Installation](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/installation-of)** | System installation |
+
+| **[Native Ubuntu Setup](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Native-Ubuntu-Setup-%E2%80%90-WAM%E2%80%90V-Project)** | Native Ubuntu Setup - WAM-V Project |
+
+| **[Visualizador v6](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Visualizer-v6-%E2%80%93-Code)** | Visualizer v6 - Code |
+
+| **[Autonomous Navigation A→B ](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/%F0%9F%A7%AD-Autonomous-Navigation)** | Autonomous Navigation |
 
 ---
 
