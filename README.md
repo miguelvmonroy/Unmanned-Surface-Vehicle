@@ -72,6 +72,11 @@ Toda la documentación detallada está disponible en el **[Wiki del proyecto](ht
 | **[Control](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Control-de-la-Lancha)** | Control de la Lancha |
 | **[Controlador](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Controlador-A%E2%86%92B-%E2%80%90-Ubuntu-Nativo)** | A→B - Ubuntu Nativo |
 | **[Sistema de control](https://github.com/miguelvmonroy/lancha-autonoma/wiki/C%C3%B3mo-lanzar-el-sistema-completo)** | Cómo lanzar el sistema completo |
+| **[Gpu en WSL2](https://github.com/miguelvmonroy/lancha-autonoma/wiki/GPU%E2%80%90Acceleration)** | Aceleración por GPU en WSL2 para Gazebo y RViz2 |
+| **[Instalación](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Instalaci%C3%B3n)** | Instalación del sistema |
+| **[Setup Ubuntu Nativo](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Setup-Ubuntu-Nativo-%E2%80%90-Proyecto-WAM%E2%80%90V)** | Setup Ubuntu Nativo ‐ Proyecto WAM‐V |
+| **[Visualizador v6](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Visualizador-v6-%E2%80%90-C%C3%B3digo)** | Visualizador v6 ‐ Código |
+| **[Navegación Autónoma A→B ](https://github.com/miguelvmonroy/lancha-autonoma/wiki/%F0%9F%A7%AD-Navegaci%C3%B3n-Aut%C3%B3noma)** | Navegación Autónoma |
 
 ---
 
