@@ -67,7 +67,7 @@ Toda la documentación detallada está disponible en el **[Wiki del proyecto](ht
 
 | Guía | Descripción |
 |------|-------------|
-| [🔧 Instalación](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Instalación) | Instalación de WSL, ROS 2, Gazebo y VRX |
+| [https://github.com/miguelvmonroy/lancha-autonoma/wiki | Lancha Autónoma - Proyecto de Navegación Autónoma |
 | [🎮 Control de la Lancha](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Control-de-la-Lancha) | Control manual y comandos ROS 2 |
 | [🗺️ Mundos Disponibles](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Mundos-Disponibles) | Mundos de simulación en VRX |
 | [🌊 Perfiles de Mar](https://github.com/miguelvmonroy/lancha-autonoma/wiki/Perfiles-de-Mar) | Configuración de oleaje y viento |
