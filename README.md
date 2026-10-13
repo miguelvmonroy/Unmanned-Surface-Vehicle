@@ -148,4 +148,5 @@ La documentación completa y detallada está disponible en la **[wiki del proyec
 ---
 
 ⭐ If you like this project, don't forget to give it a star on GitHub!
+
 ⭐ Si te gusta este proyecto, ¡no olvides darle una estrella en GitHub!
