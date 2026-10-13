@@ -134,7 +134,7 @@ Full, detailed documentation is available on the **[project wiki](https://github
 
 | Guide | Description |
 |------|-------------|
-| **[Lancha Autónoma](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki)** | Wiki Resumida |
+| **[Autonomous Boat](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki)** | Wiki Summary |
 
 ### 🇪🇸 Español
 
