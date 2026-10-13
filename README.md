@@ -150,15 +150,8 @@ La documentación completa y detallada está disponible en la **[wiki del proyec
 
 | Guía | Descripción |
 |------|-------------|
-| **[Embarcación Autónoma](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki)** | Proyecto de Navegación Autónoma |
-| **[Control](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Boat-Control)** | Control de la Embarcación |
-| **[Controlador](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Controller-A%E2%86%92B-%E2%80%90-Native-Ubuntu)** | A→B - Ubuntu Nativo |
-| **[Sistema de Control](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/How-to-launch-the-complete-system)** | Cómo lanzar el sistema completo |
-| **[GPU en WSL2](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/GPU%E2%80%90Acceleration)** | Aceleración por GPU en WSL2 para Gazebo y RViz2 |
-| **[Instalación](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/installation-of)** | Instalación del sistema |
-| **[Configuración Ubuntu Nativo](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Native-Ubuntu-Setup-%E2%80%90-WAM%E2%80%90V-Project)** | Configuración Ubuntu Nativo - Proyecto WAM-V |
-| **[Visualizador v6](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/Visualizer-v6-%E2%80%93-Code)** | Visualizador v6 - Código |
-| **[Navegación Autónoma A→B](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki/%F0%9F%A7%AD-Autonomous-Navigation)** | Navegación Autónoma |
+| **[Lancha Autónoma](https://github.com/miguelvmonroy/Unmanned-Surface-Vehicle/wiki)** | Wiki Resumida |
+
 
 ---
 
