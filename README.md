@@ -10,7 +10,7 @@
 
 ---
 
-# 🔬 Mecatrónica del Pacífico — Documentación
+# 🔬 Documentación
 
 > **ES:** Bienvenido a la documentación técnica del proyecto de investigación de **navegación autónoma de un USV** (Unmanned Surface Vehicle — vehículo de superficie no tripulado).
 >
